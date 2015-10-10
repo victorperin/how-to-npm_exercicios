@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorperin/how-to-npm_exercicios.git"
+  },
+  "bugs": {
+    "url": "https://github.com/victorperin/how-to-npm_exercicios/issues"
+  },
+  "homepage": "https://github.com/victorperin/how-to-npm_exercicios#readme"
 }
